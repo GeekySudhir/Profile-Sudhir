@@ -1,0 +1,11 @@
+{
+  "name": "profilewebsite",
+  "version": "1.0.0",
+  "description": "creating profile page",
+  "main": "index.html",
+  "scripts": {
+    "test": "pass"
+  },
+  "author": "sudhir",
+  "license": "ISC"
+}
